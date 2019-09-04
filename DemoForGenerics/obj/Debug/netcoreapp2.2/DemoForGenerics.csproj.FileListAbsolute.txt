@@ -1,0 +1,10 @@
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\obj\Debug\netcoreapp2.2\DemoForGenerics.csproj.CoreCompileInputs.cache
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\obj\Debug\netcoreapp2.2\DemoForGenerics.AssemblyInfoInputs.cache
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\obj\Debug\netcoreapp2.2\DemoForGenerics.AssemblyInfo.cs
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\bin\Debug\netcoreapp2.2\DemoForGenerics.deps.json
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\bin\Debug\netcoreapp2.2\DemoForGenerics.runtimeconfig.json
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\bin\Debug\netcoreapp2.2\DemoForGenerics.runtimeconfig.dev.json
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\bin\Debug\netcoreapp2.2\DemoForGenerics.dll
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\bin\Debug\netcoreapp2.2\DemoForGenerics.pdb
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\obj\Debug\netcoreapp2.2\DemoForGenerics.dll
+C:\Users\sramdurg\source\repos\DemoForGenerics\DemoForGenerics\obj\Debug\netcoreapp2.2\DemoForGenerics.pdb
